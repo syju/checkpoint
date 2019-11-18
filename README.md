@@ -1,2 +1,3 @@
-# checkpoint
-check-site
+# maven-project
+
+Simple Maven Project
