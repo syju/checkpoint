@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Welcome to Alogic-Technologies !!! </h1>
+<h2> Have a Great day..!! </h2>
+<h3> Good Morning..!! </h3>
